@@ -6,7 +6,7 @@ import random
 import re
 from st_on_hover_tabs import on_hover_tabs
 from streamlit_autorefresh import st_autorefresh
-import streamlit_authenticator as stauth
+# import streamlit_authenticator as stauth
 # import sqlite3
 # import yaml
 # from yaml import SafeLoader
@@ -446,3 +446,4 @@ if tabs == 'Conta':
         # st.error("Nome de usuário ou senha incorretos.")
     # elif authentication_status is None:
         # st.warning("Por favor, faça login.")
+
