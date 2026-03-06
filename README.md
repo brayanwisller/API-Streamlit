@@ -30,8 +30,8 @@ Este é um Web App de dashboard interativo desenvolvido com **Streamlit**, focad
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/brayanwisller/Python-and-Streamlit.git](https://github.com/brayanwisller/Python-and-streamlit.git)
-   cd Python-and-Streamlit
+   git clone [https://github.com/brayanwisller/API-Streamlit.git](https://github.com/brayanwisller/API-Streamlit.git)
+   cd API-Streamlit
 2. **Instale as dependências:**
    ```bash
    pip install -r requirements.txt
