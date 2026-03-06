@@ -1,0 +1,9 @@
+---
+
+### Arquivo `requirements.txt`
+```text
+streamlit
+pandas
+numpy
+st-on-hover-tabs
+streamlit-autorefresh
