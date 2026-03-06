@@ -1,7 +1,4 @@
----
-
-### Arquivo `requirements.txt`
-```text
+### Bibliotecas necessárias para a execução da API
 streamlit
 pandas
 numpy
