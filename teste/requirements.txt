@@ -1,0 +1,6 @@
+### Bibliotecas necessárias para a execução da API
+streamlit
+pandas
+numpy
+st-on-hover-tabs
+streamlit-autorefresh
